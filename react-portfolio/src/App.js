@@ -1,11 +1,23 @@
-import React from 'react';
-import './App.css';
-
-ReactDOM.render(
-  
+import React, { Component } from 'react';
+import Header from './components/Header';
+import About from './components/About';
+import Resume from './components/Resume';
+import Portfolio from './components/Portfolio';
+import ContactUs from './components/ContactUs';
+import Footer from './components/Footer';
+import resumeData from './components/resumeData';
+class App extends Component {
+render() {
+return (
+<div className="App">
+<Header resumeData={resumeData}/>
+<About resumeData={resumeData}/>
+<Resume resumeData={resumeData}/>
+<Portfolio resumeData={resumeData}/>
+<ContactUs resumeData={resumeData}/>
+<Footer resumeData={resumeData}/>
+</div>
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+}
+}
+export default App;
