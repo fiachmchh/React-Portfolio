@@ -67,7 +67,7 @@ let resumeData = {
     {
     "name":"Hunger Busters App",
     "description":"",
-    "imgurl":"images/portfolio/hb1.png"
+    "imgurl":"../images/portfolio/hb1.png"
     },
     {
     "name":"AudioBridge SoundClub",
@@ -82,7 +82,7 @@ let resumeData = {
     {
     "name":"project4",
     "description":"mobileapp",
-    "imgurl":"images/portfolio/phone.jpg"
+    "imgurl":"../images/portfolio/phone.jpg"
     }
     ],
     }
