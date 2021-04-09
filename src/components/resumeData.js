@@ -2,8 +2,8 @@ let resumeData = {
     "imagebaseurl":"https://ivy555.github.io/",
     "name": "Fiach",
     "role": "Full Stack Web Dev Student",
-    "linkedinId":"Your ID",
-    "roleDescription": "Role description here",
+    "linkedinId":"fiachmchh",
+    "roleDescription": "",
     "socialLinks":[
     {
     "name":"linkedin",
@@ -16,8 +16,8 @@ let resumeData = {
     "className":"fa fa-github"
     }
     ],
-    "aboutme":"About me here",
-    "address":"Astoria, NYC",
+    "aboutme":"Full Stack Web Dev Student. Background in the hospitality industry managing and bartending in Manhattan for the past 7 years. US resident and EU citizen. From Ireland, living in NYC. Aiming to gain employment in the field of web development upon completion.",
+    "address":"Astoria, Queens",
     "website":"",
     "education":[
     {
@@ -25,33 +25,33 @@ let resumeData = {
     "specialization":"Modern History and Politics",
     "MonthOfPassing":"Aug",
     "YearOfPassing":"2013",
-    "Achievements":"Add achievements here"
+    "Achievements":""
     },
     {
     "UniversityName":"Columbia Engineering",
     "specialization":"Full Stack Flex Web Development",
     "MonthOfPassing":"Apr",
     "YearOfPassing":"2021",
-    "Achievements":"Achievements here"
+    "Achievements":""
     }
     ],
     "work":[
     {
     "CompanyName":"PMac Hospitality",
-    "specialization":"job",
+    "specialization":"Bartender",
     "MonthOfLeaving":"Jan",
     "YearOfLeaving":"2018",
-    "Achievements":"roles"
+    "Achievements":""
     },
     {
     "CompanyName":"PMac Hospitality",
-    "specialization":"job",
+    "specialization":"Manager",
     "MonthOfLeaving":"Jan",
-    "YearOfLeaving":"2018",
-    "Achievements":"roles"
+    "YearOfLeaving":"",
+    "Achievements":""
     }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
     {
     "skillname":"HTML5"
@@ -65,19 +65,19 @@ let resumeData = {
     ],
     "portfolio":[
     {
-    "name":"project1",
-    "description":"app name",
-    "imgurl":""
+    "name":"Hunger Busters App",
+    "description":"",
+    "imgurl":"images/portfolio/hb1.png"
     },
     {
-    "name":"project2",
-    "description":"app name",
+    "name":"AudioBridge SoundClub",
+    "description":"",
     "imgurl":".jpg"
     },
     {
     "name":"project3",
     "description":"app name",
-    "imgurl":".png"
+    "imgurl":""
     },
     {
     "name":"project4",
